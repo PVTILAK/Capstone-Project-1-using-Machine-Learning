@@ -1,5 +1,5 @@
 # Capstone-Project-2-Abalone-Age-Prediction-using-Machine-Learning
-Scientific studies on abalonesrequire knowing the age of an abalone. It involves measuring the number of layers of shell (“rings”) that make up the abalone’s shell.This is done by taking a sample of shell, staining it and counting the number of rings under the microscope.
+Scientific studies on abalones require knowing the age of an abalone. It involves measuring the number of layers of shell (“rings”) that make up the abalone’s shell.This is done by taking a sample of shell, staining it and counting the number of rings under the microscope.
 
 THE DATA CONSISTS OF 9 FEATURES:
 
